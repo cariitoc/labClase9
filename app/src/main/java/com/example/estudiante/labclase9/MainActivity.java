@@ -77,11 +77,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
         }
 
-        public int turno(){
-            int resultado = 0;
-
-            return resultado;
-        }
 
     }
 }
